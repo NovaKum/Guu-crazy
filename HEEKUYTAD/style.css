@@ -1,0 +1,23 @@
+*{
+    margin: 150px;
+    padding: 0;
+    text-align: center;
+    background-image: none;
+}
+
+body    {
+    margin: 100;
+    padding: 250;
+    background-color: rgb(117, 117, 117);
+}
+
+h1  {
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 5px;
+}
+p   {
+    color: rgb(255, 207, 237);
+    margin: 10px;
+    padding: 5px;
+}
